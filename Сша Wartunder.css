@@ -8,7 +8,7 @@ h1 {
 p {
 		font-size:150%;
 		font-weight:bold;
-		text-align:center;
+		/* text-align:center; */
 		text-indent:5%;
 		color:#00ff48;
 }
@@ -31,5 +31,6 @@ h2 {
 .a1,.a7,.a8 {
 display: flex; 
 }
+
 
 
